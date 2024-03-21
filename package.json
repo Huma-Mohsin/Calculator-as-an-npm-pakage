@@ -1,0 +1,21 @@
+{
+  "name": "npm_basic_calculator_2024",
+  "version": "1.0.1",
+  "description": "This is a simple calculator which performs all 4 basic operations, inquirer package from npm is integrated in this project.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HUMA MOHSIN",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "npm_basic_calculator_2024": "^1.0.1"
+  }
+}
